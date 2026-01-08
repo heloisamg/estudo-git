@@ -30,4 +30,9 @@ git add README.md
 git add .
 ```
 
+7.Criar um commit com mensagem
+```
+git commit -m "Mensagem do commit"
+```
+
 
