@@ -19,3 +19,8 @@ git init
 ```
 git status
 ```
+
+5.Adicionar um arquivo específico ao staging
+```
+git add README.md
+```
