@@ -14,3 +14,8 @@ git config --global user.email "teste@email.com"
 ```
 git init
 ```
+
+4.Verificar o status do repositório
+```
+git status
+```
