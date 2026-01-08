@@ -9,3 +9,8 @@ git config --global user.name "Heloísa"
 ```
 git config --global user.email "teste@email.com"
 ```
+
+3.Inicializar um repositório Git
+```
+git init
+```
