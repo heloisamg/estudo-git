@@ -65,4 +65,9 @@ mkdir nome_da_pasta
 rmdir nome_da_pasta
 ```
 
+14.Remover arquivo
+```
+rm arquivo.txt
+```
+
 
