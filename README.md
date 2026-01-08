@@ -70,4 +70,9 @@ rmdir nome_da_pasta
 rm arquivo.txt
 ```
 
+15.Exibir conteúdo de um arquivo
+```
+cat README.md
+```
+
 
