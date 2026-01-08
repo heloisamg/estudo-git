@@ -45,4 +45,9 @@ git log
 git push
 ```
 
+10.Atualizar o repositório local
+```
+git pull
+```
+
 
