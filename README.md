@@ -75,4 +75,7 @@ rm arquivo.txt
 cat README.md
 ```
 
-
+16.Editar arquivo no terminal
+```
+vi README.md
+```
