@@ -50,4 +50,9 @@ git push
 git pull
 ```
 
+11.Navegar entre diretórios
+```
+cd
+```
+
 
