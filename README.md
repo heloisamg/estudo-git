@@ -40,4 +40,9 @@ git commit -m "Mensagem do commit"
 git log
 ```
 
+9.Enviar alterações para o repositório remoto
+```
+git push
+```
+
 
