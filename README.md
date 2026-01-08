@@ -35,4 +35,9 @@ git add .
 git commit -m "Mensagem do commit"
 ```
 
+8.Visualizar o histórico de commits
+```
+git log
+```
+
 
