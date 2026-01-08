@@ -24,3 +24,10 @@ git status
 ```
 git add README.md
 ```
+
+6.Adicionar todos os arquivos modificados
+```
+git add .
+```
+
+
