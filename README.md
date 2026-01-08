@@ -55,4 +55,9 @@ git pull
 cd
 ```
 
+12.Criar diretório
+```
+mkdir nome_da_pasta
+```
+
 
