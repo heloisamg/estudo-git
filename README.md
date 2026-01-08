@@ -60,4 +60,9 @@ cd
 mkdir nome_da_pasta
 ```
 
+13.Remover diretório vazio
+```
+rmdir nome_da_pasta
+```
+
 
