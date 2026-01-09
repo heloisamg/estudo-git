@@ -79,3 +79,8 @@ cat README.md
 ```
 vi README.md
 ```
+
+17.Clonar um repositório remoto para o computador local
+```
+git clone url_do_repositório
+```
